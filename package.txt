@@ -3,3 +3,5 @@ VERSION=3.2.1
 REVISION=1
 SRC=https://sourceware.org/ftp/libffi/libffi-3.2.1.tar.gz
 SRCMD5=83b89587607e3eb65c70d361f13bab43
+OPTIONS=bootstrap|release
+DEFAULTS=release
